@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-  <h1>Testing Github Pages with vue</h1>
+    <h1>Testing Github Pages with vue</h1>
+    <h2>OK SUCCESS</h2>
   </div>
 </template>
 
